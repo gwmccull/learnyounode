@@ -7,6 +7,9 @@ but quickly get fairly challenging.  None of the exercises are long, but they do
 that many developers are probably not familiar with.  The exercises make use of libraries where necessary but, where possible,
 encourage the student to do it the "hard way" before relying on libraries to make the exercises easier.
 
+I’ve uploaded all of my answers into a repo, in case anyone would like to see them: 
+[https://github.com/gwmccull/learnyounode](https://github.com/gwmccull/learnyounode)
+
 I've done a number of projects in NodeJS but I was always building APIs with ExpressJS.  Several of the Learnyounode exercises
 involved file I/O, which was new to me, and the API exercises were done using only the HTTP library.
 
