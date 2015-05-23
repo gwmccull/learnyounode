@@ -1,5 +1,5 @@
-As mentioned in my [last post](/2015/05/20/nodeschool-javascripting/), I'll be helping  teach the 
-[Learnyounode exercises](https://github.com/workshopper/learnyounode) from [NodeSchool.io](nodeschool.io/) this weekend (5/23/2015). 
+As mentioned in my [last post](http://gwmccull.github.io/2015/05/20/nodeschool-javascripting/), I'll be helping  teach the 
+[Learnyounode exercises](https://github.com/workshopper/learnyounode) from [NodeSchool.io](http://nodeschool.io/) this weekend (5/23/2015). 
 
 In preparation for tomorrow's workshop, I completed the Learnyounode exercises last night.  Learnyounode is a series 
 of 13 exercises designed to teach the student about [NodeJS](https://nodejs.org/).  The exercises start very basic
