@@ -1,3 +1,5 @@
+[Original blog post](http://gwmccull.github.io/2015/05/22/nodeschool-learnyounode/)
+
 As mentioned in my [last post](http://gwmccull.github.io/2015/05/20/nodeschool-javascripting/), I'll be helping  teach the 
 [Learnyounode exercises](https://github.com/workshopper/learnyounode) from [NodeSchool.io](http://nodeschool.io/) this weekend (5/23/2015). 
 
